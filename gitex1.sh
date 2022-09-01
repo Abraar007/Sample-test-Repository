@@ -1,7 +1,7 @@
 #!/bin/bash
 var1=Abraar
-var2=8660668454
-var3="my git pull & push practice"
+var2=9738834156
+var3=" Jenkins integration with Git"
 echo " my name is :   " $var1
 echo " my number is : " $var2
-echo " This for : " $var3
+echo " This project is for : " $var3
