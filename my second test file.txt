@@ -1,1 +1,1 @@
-echo "This is my second clone file"
+echo "This is my second file output"
